@@ -1,5 +1,5 @@
 # Figma-Design-Portfolio
-This repository showcases a selection of my favourite wireframes and UI/UX designs created in Figma. Each project reflects my approach to user-centered design, balancing aesthetics with functionality. Feel free to explore and interact with the embedded designs or view the complete projects in Figma.
+This repository showcases a selection of my favourite wireframes and UI/UX designs I created in Figma. Each project reflects my approach to user-centered design, balancing aesthetics with functionality. Feel free to explore and interact with the embedded designs or view the complete projects in Figma.
 
 [Central Website](https://www.figma.com/design/kG8ogepXW7KMnD5bGJuJR5/Central-Website-UI?node-id=21-784&t=mR8YIhahMtenNdy9-1)
 
