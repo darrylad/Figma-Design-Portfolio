@@ -7,7 +7,7 @@ This repository showcases a selection of my favourite wireframes and UI/UX desig
 
 [HungryDucks - My first Figma project](https://www.figma.com/design/r26WuSV6aTwJWHm7EvkAiv/HungryDucks?node-id=0-1&t=IfvXzo9UNOt8aXgo-1)
 
-[Interactive Prototype (Click Play): Calendarly](https://www.figma.com/design/izxBAQJno3ibx07Filydnw/Calendarly-Original?node-id=0-1&t=qP27u9UVV6VMyMkL-1)
+[Interactive Prototype: Calendarly](https://www.figma.com/proto/izxBAQJno3ibx07Filydnw/Calendarly-Original?node-id=0-1&t=qP27u9UVV6VMyMkL-1)
 
 [Snorelabs - A simple sleeptraker](https://www.figma.com/design/WhbEpN3hHm6255WXr0GslE/Snorelabs?node-id=0-1&t=g4a2l0ajqVfE9aE1-1)
 
