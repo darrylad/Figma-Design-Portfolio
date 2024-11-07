@@ -1,6 +1,6 @@
 # Figma-Design-Portfolio
 
-“Good design is as little as possible. Less, but better, because it concentrates on the essential aspects,  and the products are not burdened with non-essentials. Back to purity, back to simplicity.”  - by Dieter Rams
+“Good design is as little as possible. Less, but better, because it concentrates on the essential aspects,  and the products are not burdened with non-essentials. Back to purity, back to simplicity.”  - Dieter Rams
 
 This repository highlights a curated selection of my finest Figma wireframes and UI/UX designs. Each project embodies my dedication to creating functional, visually engaging, and user-centered designs. Drawing inspiration from Dieter Rams' timeless principles of design, I aim to craft solutions that are simple yet elegant, balancing aesthetics with usability.
 
