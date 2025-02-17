@@ -10,6 +10,8 @@ Feel free to explore these projects, where clarity meets creativity, and each el
 
 [MunchMates -- IITISoC'23 Gold Medal Winner](https://www.figma.com/design/dFkV0DV8VAysXsLl4Oske9/foodDeliveryAppCollab?node-id=0-1&t=RcZui0IV0xJCKVN4-1)
 
+[Gyroscopic Drone Controller](https://www.figma.com/design/wybH9uxQiHCsH2fIKkQybY/DroneController?node-id=0-1&t=24xGoBpRzqaI6Ho0-1)
+
 [TPC Portal](https://www.figma.com/design/ToChZe5KcpZ1ICNLCg8PMf/TPC-Website?node-id=0-1&t=HFDIJ3mitxpgM1ej-1)
 
 [HungryDucks -- My first Figma project](https://www.figma.com/design/r26WuSV6aTwJWHm7EvkAiv/HungryDucks?node-id=0-1&t=IfvXzo9UNOt8aXgo-1)
